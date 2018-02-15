@@ -5,7 +5,7 @@
 //*** ATMEGA328P, which in turn controls 27 LED's***************
 //***layers all neg connected via 3pins A1 A2 A3****************
 //***27 leds connected in columns. 9 pins.0-8 to controller*****
-//Libaries are kept to a minimum so you can see what's going on*
+//Libraries are kept to a minimum so you can see what's going on*
 //**************************************************************
 
 #define layer_on  0
