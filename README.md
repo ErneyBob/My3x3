@@ -1,2 +1,1 @@
-# My3x3
-3x3x3 cube
+3x3x3 cube, using 27 blue LED
